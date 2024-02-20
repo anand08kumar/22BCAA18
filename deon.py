@@ -18,6 +18,7 @@ elif num > 1:
             flag = True
             # break out of loop
             break
+            add
 
     # check if flag is True
     if flag:
