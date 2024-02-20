@@ -1,6 +1,6 @@
 # Program to check if a number is prime or not
 
-num = 29
+num = 20
 
 # To take input from the user
 #num = int(input("Enter a number: "))
@@ -18,7 +18,7 @@ elif num > 1:
             flag = True
             # break out of loop
             break
-            add
+            
 
     # check if flag is True
     if flag:
